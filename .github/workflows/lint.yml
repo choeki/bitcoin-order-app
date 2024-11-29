@@ -37,4 +37,3 @@ jobs:
           name: linting tool report
           path: |
             ./JSHint-report
-            
